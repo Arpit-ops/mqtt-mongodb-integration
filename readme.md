@@ -40,7 +40,7 @@ The IoT Data Handling System is a backend application developed in Python that f
 - Python: The programming language used for developing the backend system and running the scripts.
 
 ## Contributors
-- Arpit joshi(https://github.com/yourusername): Description of contributions, if any.
+- Arpit joshi
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
